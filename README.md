@@ -9,6 +9,9 @@ contact information: h dot anthony1 at universityofgalway dot ie
 ### License information
 MIT; see LICENSE file for more information.
 
+### Citation
+Please cite our current pre-print if you use this pipeline (doi.org/10.1101/2025.06.11.658021)
+
 ### Repository information
 
 This repository functions as a distribution of the SC-MSI Snakemake pipeline used in our recept manuscript. 
