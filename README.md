@@ -1,4 +1,4 @@
-# SC-MSI
+# SINGLE-MSI
 ## Computational pipeline to identify MSI-H cells and measure heterogeneity in the biomarker
 
 ### Information about the author(s) of this code:
@@ -14,9 +14,9 @@ Please cite our current pre-print if you use this pipeline (doi.org/10.1101/2025
 
 ### Repository information
 
-This repository functions as a distribution of the SC-MSI Snakemake pipeline used in our recept manuscript. 
+This repository functions as a distribution of the SINGLE-MSI Snakemake pipeline used in our recept manuscript. 
 The results and raw code submitted as part of the publication can be found in the legacy version of this
-repository (https://github.com/harrison-anth/sc_msi_legacy).
+repository (https://github.com/harrison-anth/single_msi_legacy).
 
 This pipeline has been tested on Ubuntu 20.04 with Snakemake 8.27.1, Conda 24.1.2, and Cell Ranger 7.2.0.
 
@@ -67,7 +67,7 @@ That's it!
 **Note:** Snakemake is a great workflow manager because it is transferable across platforms, scalabale with HPC's, and reproducible. However, Snakemake 
 (and other bioinformatics workflow tools) can become complicated very quickly when using many different wilcards 
 and when being integrated into an HPC framework like SLURM. We have provided small FASTQ and MTX files that serve as examples on how to build the
-manifest, config, and profile for SC-MSI. An experienced Snakemake user would be needed to include changes to the pipeline (new rules, file formats, etc.,) 
+manifest, config, and profile for SINGLE-MSI. An experienced Snakemake user would be needed to include changes to the pipeline (new rules, file formats, etc.,) 
 and could very well affect the functionality of the pipeline. 
 
 ### SC-MSI quick use guide
