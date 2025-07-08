@@ -70,7 +70,7 @@ and when being integrated into an HPC framework like SLURM. We have provided sma
 manifest, config, and profile for SINGLE-MSI. An experienced Snakemake user would be needed to include changes to the pipeline (new rules, file formats, etc.,) 
 and could very well affect the functionality of the pipeline. 
 
-### SC-MSI quick use guide
+### SINGLE-MSI quick use guide
 
 1.) Verify installation by running the test sample. 
 
