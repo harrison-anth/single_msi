@@ -3,8 +3,10 @@
 
 ### Information about the author(s) of this code:
 Name(s): Harrison Anthony 
+
 contact information: h dot anthony1 at universityofgalway dot ie
-(Alternate contacts can be found on my github profile)
+
+Alternative and updated contact information can be found on my [website](https://harrison-anth.github.io). 
 
 ### License information
 MIT; see LICENSE file for more information.
