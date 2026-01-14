@@ -125,5 +125,3 @@ that will require tweaking the memory settings for each rule to fit the system s
 
 3.) If you are running with intense settings (multi-threaded/HPC) consider starting with a manifest file containing only 1 individual and 1 sample to check if 
 your specifications are too high or insufficient. 
-
-"Progress through trial and error depends not only on making trials, but on recognizing errors." ~ Virginia Postrel
