@@ -12,7 +12,9 @@ Alternative and updated contact information can be found on my [website](https:/
 MIT; see LICENSE file for more information.
 
 ### Citation
-Please cite our current pre-print if you use this pipeline (doi.org/10.1101/2025.06.11.658021)
+Please cite our our publication 
+"Intratumoral heterogeneity in microsatellite instability at single-cell resolution" 
+published in *iScience*. 
 
 ### Repository information
 
